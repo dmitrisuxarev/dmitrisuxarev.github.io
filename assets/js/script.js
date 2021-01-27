@@ -1,12 +1,12 @@
 //loader
-// let loader =  document.querySelector(".loader");
-// loader.addEventListener("animationend",(e)=>{
-//     e.stopPropagation();
-//     let target = e.target;
-//     if(target.classList.contains("loader")){
-//         loader.style.display = "none";
-//     }
-// })
+let loader =  document.querySelector(".loader");
+loader.addEventListener("animationend",(e)=>{
+    e.stopPropagation();
+    let target = e.target;
+    if(target.classList.contains("loader")){
+        loader.style.display = "none";
+    }
+})
 //******************************************** */
 //menu
 //******************************************** */

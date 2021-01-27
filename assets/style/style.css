@@ -223,7 +223,7 @@ body {
   font-size: 22px;
   font-family: "Montserrat", sans-serif;
   animation: loader 1s forwards ease-in-out;
-  animation-delay: 2.5s; }
+  animation-delay: 3.5s; }
 
 .loader .loader_label,
 .loader svg {
